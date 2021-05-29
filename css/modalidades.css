@@ -1,0 +1,48 @@
+.header-modalidades {
+  width: 1349px;
+}
+.titulo-modalidades {
+  width: 100%;
+  height: 360px;
+  background-image: url(img/modalidades/modalidades-bg.jpg);
+  width: 1349px;
+}
+.titulo-modalidades h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 36px;
+  color: #fff;
+  font-weight: bold;
+  position: relative;
+  top: 149px;
+  width: 1349px;
+}
+.titulo-modalidades h1:after {
+  display: block;
+  content: "";
+  width: 80px;
+  height: 3px;
+  background-color: #fff;
+  margin: 14px auto;
+}
+.titulo-modalidades h1:before {
+  display: block;
+  content: "";
+  width: 80px;
+  height: 3px;
+  background-color: #fff;
+  margin: 0 auto 10px auto;
+}
+/*Modalidades*/
+.modalidades {
+  width: auto;
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+.modalidades .container {
+  margin-bottom: 15px;
+}
+.foto-esquerda {
+  margin-right: 50px;
+  margin-left: 103px;
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_23" data-name="Retângulo 23" width="40" height="40" transform="translate(137 633)" fill="#616161" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icone-localizacao" transform="translate(-137 -633)" clip-path="url(#clip-path)">
+    <g id="location-sign-svgrepo-com" transform="translate(143.119 633)">
+      <path id="Caminho_12" data-name="Caminho 12" d="M26.118,0A13.9,13.9,0,0,0,12.237,13.882c0,7.368,12.594,24.581,13.13,25.31l.5.681a.311.311,0,0,0,.5,0l.5-.681C27.406,38.463,40,21.249,40,13.882A13.9,13.9,0,0,0,26.118,0Zm0,8.909a4.972,4.972,0,1,1-4.972,4.972A4.977,4.977,0,0,1,26.118,8.909Z" transform="translate(-12.237 0)"/>
+    </g>
+  </g>
+</svg>
